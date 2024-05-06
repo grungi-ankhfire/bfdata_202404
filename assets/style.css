@@ -1,0 +1,14 @@
+h1 {
+    background-color: lightgreen;
+    text-align: center;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.border {
+    border: 1px solid black;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+#sine-graph {
+    background-color: cadetblue;
+}
